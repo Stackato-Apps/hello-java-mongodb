@@ -1,5 +1,0 @@
-name: hello-java-mongodb
-mem: 512M
-services:
-  ${name}-db: mongodb
-app-dir: target/hello-java-mongodb-1.0
